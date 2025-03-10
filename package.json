@@ -1,0 +1,15 @@
+{
+  "name": "kandji-gas-api",
+  "version": "1.0.0",
+  "description": "GAS implementation of the kandji api",
+  "license": "ISC",
+  "author": "Gabriel Sillam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.97"
+  }
+}
